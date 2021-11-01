@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(255, 252, 248);
+}
+
+header {
+    height: 60px;
+    width: 100vw;
+    background-color: #292929;
+    color: white;
+    
+}
+
+footer {
+    height: 20px;
+    width: 100vw;
+    background-color: black;
+    color: white;
+}
